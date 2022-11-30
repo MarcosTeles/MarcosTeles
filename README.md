@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 As a graphic designer, I'm switching to user experience.<br>🌱 Currently, I'm learning ReactJS, and I'm looking forward to learning React Native and Flutter later.
+🔭 I'm a graphic designer switching career to user experience.<br>🌱 Currently, I'm learning ReactJS, and I'm looking forward to learning React Native and Flutter later.
 
 
 ## 🌐 Socials:
